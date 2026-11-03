@@ -1,0 +1,6 @@
+{
+  "name": "Viu, pediu.",
+  "description": "Envie uma foto, encontre opções no iFood e revise seu pedido com Pix.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
